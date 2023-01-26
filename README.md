@@ -28,4 +28,5 @@ Gradientboost classifier: 91.02%
 
 MLP: 85.93%
 
+Confusion matrix is used to compare the different models as it helps in finding the correctness and accuracy of the model in a better way.
 Confusion Matrix depicts that Random Forest Classifier is correct to a large extent and at the same time it is having the score of 100% in model evaluation, so it is the model that can be deployed for Employee Attribute Analysis.
