@@ -16,6 +16,8 @@ To get the correlation of each feature in the dataset, corr() function is used. 
 
 We then started with Data Preprocessing, splitting the dataset into training and testing and finally evaluation of particular model.
 
+Metrices which are used for evaluation of algorithms used includes confusion matrix, classification report(which involves precision, recall, f1 score, support). Confusion matrix is used because it presents the different outcomes of the prediction and results of a classification problem in a tabular format  and helps visualize its outcomes in a better way. Classification Report provides a better understanding of the overall performance of our trained model.
+
 The models with their corresponding accuracies are:
 
 KNN classifier: 88.20%
