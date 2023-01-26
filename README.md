@@ -27,3 +27,5 @@ Random Forest classifier: 100.0%
 Gradientboost classifier: 91.02%
 
 MLP: 85.93%
+
+As the Random Forest Classifier is predicting with highest accuracy, so it is the algorithm that can be deployed.
